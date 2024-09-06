@@ -1,0 +1,26 @@
+{
+	"name": "Restore Character Deleted",
+	"version": "1.0.0",
+	"date": "2024-09-05",
+	"description": "You can restore deleted characters",
+	"author": {
+		"name": "Shayan",
+		"website": "http://www.FusionCms.ir"
+	},
+	
+	"permissions": {
+		"view": {"default" : true, "description": "View the Restore Character Deleted page" }
+	},
+
+	"roles": {
+		"view": {
+			"description": "View the Restore Character Deleted",
+			
+			"permissions": {
+				"view": true
+			}
+		}
+	},
+
+	"enabled": true
+}
